@@ -1,0 +1,17 @@
+{
+
+	"profiles": {
+    "dev": {
+			"commandName": "Project",
+      "environmentVariables": {
+        "DEPLOY_ENVIRONMENT": "Development"
+      }
+    },
+    "prod": {
+			"commandName": "Project",
+      "environmentVariables": {
+        "DEPLOY_ENVIRONMENT": "prod"
+      }
+		}
+}
+}
