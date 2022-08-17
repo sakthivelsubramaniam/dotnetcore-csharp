@@ -4,13 +4,17 @@
 ## concurrency
 * threading
 
-## design-patterns
-* visitor
-
 ## cross cutting
     * config
     * logging
     * dependencyInjection
+
+## dataformats
+  * json
+  * parquet
+## design-patterns
+* visitor
+
     
 
 
